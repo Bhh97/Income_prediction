@@ -1,5 +1,5 @@
 # Adult Income Dataset Analysis and Prediction
-This repository contains a Python-based project that performs an exploratory data analysis (EDA), preprocessing, and a machine learning prediction on the Adult Income Dataset from UCI Machine Learning Repository. The primary objective of the project is to predict whether income exceeds $50K/year based on census data.
+This repository contains a Python-based project that performs an exploratory data analysis (EDA), preprocessing, and a machine learning prediction on the Adult Income Dataset from UCI Machine Learning Repository. The primary objective of the project is to predict whether income exceeds $50K/year based on census data. https://archive.ics.uci.edu/dataset/2/adult
 
 ## Dataset
 The dataset used in this project, often referred to as the "Adult" dataset, includes various demographic, educational, and work-related information of about 32,000 adults. The data was extracted from the 1994 Census bureau database.
