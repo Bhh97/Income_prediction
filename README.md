@@ -22,10 +22,10 @@ Native-country
 Income (the label we're predicting)
 
 ## Data Preprocessing and Exploration
-The data exploration step involves understanding the dataset, checking the data types, handling missing values, and exploring relationships between features. We use pandas, seaborn, and matplotlib libraries for these steps.The data preprocessing step includes handling missing data (for example, replacing '?' with 'Unknown' or removing such rows based on the specific column), encoding categorical variables, and normalizing numerical variables.
+The data exploration step involves understanding the dataset, checking the data types, handling missing values, and exploring relationships between features. We use pandas, seaborn, and matplotlib libraries for these steps. The data preprocessing step includes handling missing data, encoding categorical variables, and normalizing numerical variables.
 
 ## Naive Bayes Classifier
-We implement a Naive Bayes Classifier from scratch to predict the 'Income' attribute of the dataset. The classifier handles both continuous features (using Gaussian distribution) and categorical features.
+I implemented a Naive Bayes Classifier from scratch to predict the 'Income' attribute of the dataset. The classifier handles both continuous features (using Gaussian distribution) and categorical features.
 
 Our Naive Bayes Classifier includes:
 Calculating Gaussian probability for continuous features.
